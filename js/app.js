@@ -857,7 +857,6 @@
       title: $('[data-case-title]', page),
       desc: $('[data-case-desc]', page),
       role: $('[data-case-role]', page),
-      link: $('[data-case-link]', page),
       done: $('[data-case-done]', page),
       counter: $('[data-case-counter]', page),
       prev: $('[data-case-prev]', page),
@@ -881,16 +880,6 @@
         el.done.append(li);
       });
       el.done.closest('.case__text').classList.toggle('no-done', !done.length);
-
-      if (c.link) {
-        el.link.href = c.link;
-        el.link.target = '_blank';
-        el.link.rel = 'noopener';
-        el.link.classList.remove('is-empty');
-      } else {
-        el.link.removeAttribute('href');
-        el.link.classList.add('is-empty');
-      }
 
       const prev = mod(i - 1, N);
       const next = mod(i + 1, N);
