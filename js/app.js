@@ -1207,7 +1207,8 @@
       return { page: 'cases' };
     }
     if (parts[0] === 'contacts') return { page: 'contacts' };
-    return { page: 'about' };
+    if (parts[0] === 'about') return { page: 'about' };
+    return { page: 'cases' };
   }
 
   function show(r, listIndex) {
