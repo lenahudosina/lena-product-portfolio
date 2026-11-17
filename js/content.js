@@ -157,7 +157,7 @@ window.SITE = {
       radius: 65, // скругление картинок внутри кейса — в пикселях исходного слайда
       cover: 'assets/cases/06/cover.jpg',
       images: [
-        'assets/cases/06/1.jpg', 'assets/cases/06/2.jpg', 'assets/cases/06/3.jpg', 'assets/cases/06/4.jpg', 'assets/cases/06/5.jpg', 'assets/cases/06/6.jpg', 'assets/cases/06/7.jpg', 'assets/cases/06/8.jpg', 'assets/cases/06/9.jpg', 'assets/cases/06/10.jpg', 'assets/cases/06/11.jpg'
+        'assets/cases/06/1.jpg', 'assets/cases/06/2.jpg', 'assets/cases/06/3.jpg', 'assets/cases/06/4.jpg', 'assets/cases/06/5.jpg', 'assets/cases/06/6.jpg', 'assets/cases/06/7.jpg', 'assets/cases/06/8.jpg', 'assets/cases/06/9.jpg', 'assets/cases/06/10.jpg', 'assets/cases/06/11.jpg', 'assets/cases/06/12.jpg', 'assets/cases/06/13.jpg', 'assets/cases/06/14.jpg', 'assets/cases/06/15.jpg', 'assets/cases/06/16.jpg', 'assets/cases/06/17.jpg'
       ]
     },
     {
@@ -179,83 +179,6 @@ window.SITE = {
       ]
     },
     {
-      title: 'ДИПФЕЙКИ',
-      kind: 'Лонгрид о дипфейках',
-      description: 'Лонгрид о том, как технологии дипфейков меняют общество: с одной стороны — персонализированный и креативный контент, с другой — кризис доверия к любым цифровым данным из-за лёгкости подделки фото, видео и аудио.',
-      roleShort: 'Веб-дизайнер',
-      doneShort: 'Концепция, дизайн и вёрстка лонгрида на Tilda, анимации',
-      role: 'Веб-дизайнер. Придумала концепцию лонгрида и собрала его на Tilda.',
-      done: [
-        'Концепция и визуальный язык: распознавание лиц, пунктирные линии',
-        'Таймлайн появления и роста дипфейков',
-        'Анимации и интерактивные блоки',
-        'Адаптивная версия для телефонов',
-        'Сборка на Tilda'
-      ],
-      link: 'https://lenahudoshinaa.tilda.ws/454',
-      cover: 'assets/cases/07/cover.jpg?v=2',
-      images: [
-        'assets/cases/07/video1.mp4', 'assets/cases/07/1.jpg', 'assets/cases/07/video2.mp4', 'assets/cases/07/2.jpg', 'assets/cases/07/video3.mp4', 'assets/cases/07/3.jpg', 'assets/cases/07/4.jpg', 'assets/cases/07/5.jpg', ['assets/cases/07/6.jpg', 'assets/cases/07/7.jpg', 'assets/cases/07/8.jpg'], 'assets/cases/07/video4.mp4', 'assets/cases/07/9.jpg', 'assets/cases/07/10.jpg'
-      ]
-    },
-    {
-      title: 'СЕНТИВО',
-      kind: 'Сайт студии интерьеров',
-      description: 'Сайт студии дизайна интерьеров. Интерьер как продолжение чувств: название отсылает к итальянскому sentire — «чувствовать», а визуальной метафорой стали архитектурные чертежи.',
-      roleShort: 'Веб-дизайнер',
-      doneShort: 'Сайт под ключ: структура, UX, дизайн, сборка на Tilda',
-      role: 'Веб-дизайнер. Разработала сайт под ключ — от структуры до сборки.',
-      done: [
-        'Концепция и кириллизованный логотип',
-        'Структура и UX: портфолио, услуги, порядок работы',
-        'Дизайн сайта и мобильной версии',
-        'Сборка на Tilda'
-      ],
-      link: 'https://sentivo.ru/',
-      cover: 'assets/cases/05/cover.jpg',
-      images: [
-        'assets/cases/05/2.jpg', 'assets/cases/05/1.jpg', 'assets/cases/05/video.mp4', 'assets/cases/05/3.jpg'
-      ]
-    },
-    {
-      title: 'АПДЕЙТ',
-      kind: 'Фирменный стиль',
-      description: 'Кемпинг для диджитал-специалистов, в котором они смогут перезагрузиться. Фирменный стиль, который сам собирается под любой формат.',
-      roleShort: 'Коммуникационный дизайнер',
-      doneShort: 'Фирменный стиль, ИИ-генератор иллюстраций, носители, соцсети',
-      role: 'Коммуникационный дизайнер. Отвечала за фирменный стиль и всё, что из него выросло.',
-      done: [
-        'Фирменный стиль с нуля: логотип, цвета, типографика',
-        'Генератор иллюстраций на ИИ: анимирует макеты и собирает их под любой формат',
-        'Носители для кемпинга: палатки, кресла, оформление площадки',
-        'Упаковка соцсетей'
-      ],
-      link: 'https://lenahudosina.github.io/update-generator/',
-      cover: 'assets/cases/02/cover.jpg',
-      images: [
-        'assets/cases/02/1.jpg', 'assets/cases/02/2.jpg', 'assets/cases/02/3.jpg', 'assets/cases/02/4.jpg', 'assets/cases/02/5.jpg', 'assets/cases/02/6.jpg?v=2', 'assets/cases/02/7.jpg', 'assets/cases/02/8.jpg', 'assets/cases/02/9.jpg', 'assets/cases/02/video.mp4', 'assets/cases/02/10.jpg', 'assets/cases/02/11.jpg', 'assets/cases/02/12.jpg', 'assets/cases/02/13.jpg'
-      ]
-    },
-    {
-      title: 'WIND TO GO!',
-      kind: 'Сайт школы яхтинга',
-      description: 'Сайт школы яхтинга на Чёрном море и в Абрау-Дюрсо: обучение, регаты, аренда яхт и корпоративные выезды. Визуальный язык построен на образе паруса и движении воды.',
-      roleShort: 'Веб-дизайнер',
-      doneShort: 'Концепция, дизайн сайта, адаптивы и анимации',
-      role: 'Веб-дизайнер. Отвечала за концепцию и дизайн сайта от первого экрана до мобильной версии.',
-      done: [
-        'Визуальная концепция: геометрия парусов и движение волн',
-        'Дизайн сайта: услуги, флот, регаты, локации',
-        'Адаптивная версия для телефонов',
-        'Анимации, которые передают ощущение ветра'
-      ],
-      link: '',
-      cover: 'assets/cases/04/cover.jpg',
-      images: [
-        'assets/cases/04/1.jpg', 'assets/cases/04/2.jpg', 'assets/cases/04/3.jpg', 'assets/cases/04/4.jpg', 'assets/cases/04/5.jpg', 'assets/cases/04/6.jpg', 'assets/cases/04/7.jpg', 'assets/cases/04/8.jpg', 'assets/cases/04/9.jpg', 'assets/cases/04/10.jpg', 'assets/cases/04/11.jpg', 'assets/cases/04/12.jpg', 'assets/cases/04/13.jpg', 'assets/cases/04/14.jpg', 'assets/cases/04/15.jpg'
-      ]
-    },
-    {
       title: '<CODE> BAZARR',
       kind: 'Маркетплейс анимаций',
       description: 'Маркетплейс веб-анимаций для Tilda: дизайнеры подключают готовые эффекты без знания кода, а разработчики продают свои скрипты и зарабатывают.',
@@ -274,6 +197,18 @@ window.SITE = {
       images: [
         'assets/cases/03/1.jpg', 'assets/cases/03/2.jpg', 'assets/cases/03/3.jpg', 'assets/cases/03/4.jpg', 'assets/cases/03/5.jpg', 'assets/cases/03/6.jpg', 'assets/cases/03/7.jpg', 'assets/cases/03/8.jpg', 'assets/cases/03/9.jpg', 'assets/cases/03/10.jpg', 'assets/cases/03/11.jpg', 'assets/cases/03/video.mp4', 'assets/cases/03/12.jpg', 'assets/cases/03/13.jpg'
       ]
+    },
+    {
+      title: 'КОНЦЕПТЫ',
+      kind: 'Подборка продуктовых концептов',
+      description: 'Подборка продуктовых концептов. Материалы кейса будут добавлены следующим обновлением.',
+      roleShort: 'Продуктовый дизайнер',
+      doneShort: 'Концепции, UX/UI и визуальный дизайн',
+      role: 'Продуктовый дизайнер.',
+      done: [],
+      link: '',
+      cover: '',
+      images: []
     }
   ]
 };
