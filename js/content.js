@@ -180,22 +180,23 @@ window.SITE = {
     },
     {
       title: '<CODE> BAZARR',
-      kind: 'Маркетплейс анимаций',
-      description: 'Маркетплейс веб-анимаций для Tilda: дизайнеры подключают готовые эффекты без знания кода, а разработчики продают свои скрипты и зарабатывают.',
-      roleShort: 'Коммуникационный и веб-дизайнер',
-      doneShort: 'Айдентика, маскот, лендинг на Tilda, мерч и тесты гипотез',
-      role: 'Коммуникационный и веб-дизайнер. Придумала бренд, собрала лендинг и проверила его на реальных пользователях.',
+      kind: 'UX/UI-дизайн сервиса',
+      description: 'UX/UI-проект маркетплейса веб-анимаций для Tilda: дизайнеры подключают готовые эффекты без знания кода, а разработчики продают свои скрипты и зарабатывают.',
+      roleShort: 'UX/UI-дизайнер',
+      doneShort: 'Кастдев, гипотезы, User Flow и CJM для дизайнеров и разработчиков',
+      role: 'UX/UI-дизайнер. Провела исследование и спроектировала пользовательский опыт сервиса для двух аудиторий: дизайнеров и разработчиков.',
       done: [
-        'Нейминг и айдентика: логотип, цвета, типографика',
-        'Маскот — рыжий кот, который выделяет сервис среди безликих IT-брендов',
-        'Лендинг на Tilda с анимациями',
-        'Мерч и носители',
-        'Тесты гипотез и аналитика в Яндекс Метрике'
+        'Провела кастдев-интервью с дизайнерами и разработчиками',
+        'Проанализировала и систематизировала результаты исследования',
+        'Выявила ключевые потребности, барьеры и продуктовые гипотезы',
+        'Сформировала идеи для развития сервиса',
+        'Создала User Flow для ключевых сценариев',
+        'Собрала отдельные CJM для дизайнеров и разработчиков'
       ],
       link: 'https://lenahudoshinaa.tilda.ws/ggg',
-      cover: 'assets/cases/03/cover.jpg',
+      cover: 'assets/cases/03/cover.jpg?v=2',
       images: [
-        'assets/cases/03/1.jpg', 'assets/cases/03/2.jpg', 'assets/cases/03/3.jpg', 'assets/cases/03/4.jpg', 'assets/cases/03/5.jpg', 'assets/cases/03/6.jpg', 'assets/cases/03/7.jpg', 'assets/cases/03/8.jpg', 'assets/cases/03/9.jpg', 'assets/cases/03/10.jpg', 'assets/cases/03/11.jpg', 'assets/cases/03/video.mp4', 'assets/cases/03/12.jpg', 'assets/cases/03/13.jpg'
+        'assets/cases/03/1.jpg?v=2', 'assets/cases/03/2.jpg?v=2', 'assets/cases/03/3.jpg?v=2', 'assets/cases/03/4.jpg?v=2', 'assets/cases/03/5.jpg?v=2', 'assets/cases/03/6.jpg?v=2', 'assets/cases/03/7.jpg?v=2', 'assets/cases/03/8.jpg?v=2', 'assets/cases/03/9.jpg?v=2', 'assets/cases/03/10.jpg?v=2', 'assets/cases/03/11.jpg?v=2', 'assets/cases/03/12.jpg?v=2', 'assets/cases/03/13.jpg?v=2', 'assets/cases/03/14.jpg?v=2', 'assets/cases/03/15.jpg?v=2', 'assets/cases/03/16.jpg?v=2'
       ]
     },
     {
