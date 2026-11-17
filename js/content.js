@@ -155,9 +155,9 @@ window.SITE = {
       ],
       link: '',
       radius: 65, // скругление картинок внутри кейса — в пикселях исходного слайда
-      cover: 'assets/cases/06/cover.jpg',
+      cover: 'assets/cases/06/cover.jpg?v=2',
       images: [
-        'assets/cases/06/1.jpg', 'assets/cases/06/2.jpg', 'assets/cases/06/3.jpg', 'assets/cases/06/4.jpg', 'assets/cases/06/5.jpg', 'assets/cases/06/6.jpg', 'assets/cases/06/7.jpg', 'assets/cases/06/8.jpg', 'assets/cases/06/9.jpg', 'assets/cases/06/10.jpg', 'assets/cases/06/11.jpg', 'assets/cases/06/12.jpg', 'assets/cases/06/13.jpg', 'assets/cases/06/14.jpg', 'assets/cases/06/15.jpg', 'assets/cases/06/16.jpg', 'assets/cases/06/17.jpg'
+        'assets/cases/06/1.jpg?v=2', 'assets/cases/06/2.jpg?v=2', 'assets/cases/06/3.jpg?v=2', 'assets/cases/06/4.jpg?v=2', 'assets/cases/06/5.jpg?v=2', 'assets/cases/06/6.jpg?v=2', 'assets/cases/06/7.jpg?v=2', 'assets/cases/06/8.jpg?v=2', 'assets/cases/06/9.jpg?v=2', 'assets/cases/06/10.jpg?v=2', 'assets/cases/06/11.jpg?v=2', 'assets/cases/06/12.jpg?v=2', 'assets/cases/06/13.jpg?v=2', 'assets/cases/06/14.jpg?v=2', 'assets/cases/06/15.jpg?v=2', 'assets/cases/06/16.jpg?v=2', 'assets/cases/06/17.jpg?v=2'
       ]
     },
     {
