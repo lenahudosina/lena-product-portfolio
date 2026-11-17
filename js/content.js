@@ -163,19 +163,19 @@ window.SITE = {
     {
       title: 'ГУЛЯЙ',
       kind: 'Мобильное приложение',
-      description: 'Приложение для кинопрогулок по городу. Готовые маршруты, карта киномест, нейропоиск локаций и аудиогид помогают исследовать город через любимые фильмы.',
-      roleShort: 'Коммуникационный и digital-дизайнер',
-      doneShort: 'Айдентика, дизайн приложения, UI-кит и система компонентов',
-      role: 'Коммуникационный и digital-дизайнер. Вместе с командой участвовала в исследованиях, запуске и тестировании MVP.',
+      description: 'Задача проекта — разработать айдентику, спроектировать приложение и протестировать MVP на первых пользователях. Главная цель — избавить пользователя от скучного планирования маршрута и дать эффект полного погружения в киномаршрут.',
+      roleShort: 'Продуктовый и UI/UX-дизайнер',
+      doneShort: 'Ключевые сценарии, UI, айдентика, UI-кит и система компонентов',
+      role: 'Проектировала ключевые сценарии, отвечала за визуальный интерфейс (UI) и айдентику продукта.',
       done: [
-        'Айдентика приложения с нуля',
-        'Визуальный дизайн: карта, маршруты, аудиогид',
-        'UI-кит и система компонентов'
+        'Спроектировала флоу ключевых функций: от онбординга до экрана навигации, аудиоплеера и «Нейропоиска»',
+        'Разработала айдентику и визуальный стиль приложения',
+        'Собрала UI-кит, систему компонентов и отрисовала финальные макеты'
       ],
       link: 'https://www.figma.com/design/RKeFFl41RB1LF0h7X2eiEl/%D0%93%D1%83%D0%BB%D1%8F%D0%B9?node-id=0-1&t=3zLe7J8NQuTuss7K-1',
-      cover: 'assets/cases/01/cover.jpg',
+      cover: 'assets/cases/01/cover.jpg?v=2',
       images: [
-        'assets/cases/01/1.jpg', 'assets/cases/01/2.jpg', 'assets/cases/01/3.jpg', 'assets/cases/01/4.jpg', 'assets/cases/01/5.jpg', 'assets/cases/01/6.jpg', 'assets/cases/01/7.jpg', 'assets/cases/01/8.jpg', 'assets/cases/01/9.jpg', 'assets/cases/01/10.jpg', 'assets/cases/01/11.jpg', 'assets/cases/01/12.jpg', 'assets/cases/01/13.jpg', 'assets/cases/01/14.jpg', 'assets/cases/01/15.jpg', 'assets/cases/01/16.jpg', 'assets/cases/01/17.jpg'
+        'assets/cases/01/1.jpg?v=2', 'assets/cases/01/2.jpg?v=2', 'assets/cases/01/3.jpg?v=2', 'assets/cases/01/4.jpg?v=2', 'assets/cases/01/5.jpg?v=2', 'assets/cases/01/6.jpg?v=2', 'assets/cases/01/7.jpg?v=2', 'assets/cases/01/8.jpg?v=2', 'assets/cases/01/9.jpg?v=2', 'assets/cases/01/10.jpg?v=2', 'assets/cases/01/11.jpg?v=2', 'assets/cases/01/12.jpg?v=2', 'assets/cases/01/13.jpg?v=2', 'assets/cases/01/14.jpg?v=2', 'assets/cases/01/15.jpg?v=2', 'assets/cases/01/16.jpg?v=2', 'assets/cases/01/17.jpg?v=2'
       ]
     },
     {
