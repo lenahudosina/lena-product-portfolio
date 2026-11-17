@@ -938,10 +938,14 @@
                 `${(c.radius / img.naturalWidth) * 100}% / ${(c.radius / img.naturalHeight) * 100}%`;
             }, { once: true });
           }
-          img.src = src;
           img.alt = `${c.title} — изображение ${k + 1}`;
           img.decoding = 'async';
-          if (k > 1) img.loading = 'lazy';
+          // Галерея текущего кейса небольшая после оптимизации изображений.
+          // Загружаем её заранее, чтобы быстрый скролл не упирался в серые блоки.
+          img.loading = 'eager';
+          img.fetchPriority = k < 2 ? 'high' : 'low';
+          img.addEventListener('load', () => img.classList.add('is-loaded'), { once: true });
+          img.src = src;
           fig.append(img);
           el.gallery.append(fig);
         });
@@ -963,10 +967,11 @@
       track.className = 'case__slider-track';
       srcs.forEach((s, k) => {
         const img = new Image();
-        img.src = s;
         img.alt = `${c.title} — слайд ${k + 1}`;
         img.decoding = 'async';
         img.loading = 'lazy';
+        img.addEventListener('load', () => img.classList.add('is-loaded'), { once: true });
+        img.src = s;
         track.append(img);
       });
       const nav = document.createElement('div');

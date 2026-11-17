@@ -890,6 +890,11 @@ h1, h2 { font: inherit; }
 /* скруглённые картинки: без серой подложки и с обрезкой углов */
 .case__shot.is-rounded { background: none; overflow: hidden; }
 .case__shot img, .case__shot video { display: block; width: 100%; height: auto; }
+.case__shot img {
+  opacity: 0;
+  transition: opacity .16s ease-out;
+}
+.case__shot img.is-loaded { opacity: 1; }
 
 /* слайдер внутри кейса: картинки листаются вбок */
 .case__slider { background: none; }
